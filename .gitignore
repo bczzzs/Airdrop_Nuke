@@ -1,0 +1,5 @@
+*.db
+*.session
+INFURA_KEY
+telegram_api_*
+/tor_data/
